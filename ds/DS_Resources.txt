@@ -1,0 +1,11 @@
+http://www.geeksforgeeks.org/data-structures/
+https://www.codechef.com/certification/prepare#foundation-syllabus // well documented guide for what to learn
+
+Tree
+http://www.geeksforgeeks.org/binary-tree-set-3-types-of-binary-tree/
+http://www.geeksforgeeks.org/bfs-vs-dfs-binary-tree/
+
+
+
+Dynamic Programming
+https://www.codechef.com/wiki/tutorial-dynamic-programming
