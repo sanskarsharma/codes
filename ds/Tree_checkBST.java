@@ -2,6 +2,8 @@
 
 //https://www.hackerrank.com/challenges/is-binary-search-tree/problem
 // solved it with this approach : https://www.hackerrank.com/challenges/is-binary-search-tree/forum/comments/155376
+// EDIT : this algo by tushar roy is nice, without overhead - https://youtu.be/MILxfAbIhrE
+
 
 /* Hidden stub code will pass a root argument to the function below. Complete the function to solve the challenge. Hint: you may want to write one or more helper functions.  
 
