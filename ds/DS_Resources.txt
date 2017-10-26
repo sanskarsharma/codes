@@ -4,6 +4,8 @@ https://www.codechef.com/certification/prepare#foundation-syllabus // well docum
 Tree
 http://www.geeksforgeeks.org/binary-tree-set-3-types-of-binary-tree/
 http://www.geeksforgeeks.org/bfs-vs-dfs-binary-tree/
+Standard problems -
+http://www.geeksforgeeks.org/check-if-leaf-traversal-of-two-binary-trees-is-same/
 
 
 
