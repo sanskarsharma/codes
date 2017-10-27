@@ -1,7 +1,11 @@
 http://www.geeksforgeeks.org/data-structures/
 https://www.codechef.com/certification/prepare#foundation-syllabus // well documented guide for what to learn
+https://visualgo.net/en
+https://leetcode.com
+
 
 Tree
+all problems on GfG - http://www.geeksforgeeks.org/binary-tree-data-structure/
 http://www.geeksforgeeks.org/binary-tree-set-3-types-of-binary-tree/
 http://www.geeksforgeeks.org/bfs-vs-dfs-binary-tree/
 Standard problems -
