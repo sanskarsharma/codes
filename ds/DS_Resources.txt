@@ -8,11 +8,31 @@ Tree
 all problems on GfG - http://www.geeksforgeeks.org/binary-tree-data-structure/
 http://www.geeksforgeeks.org/binary-tree-set-3-types-of-binary-tree/
 http://www.geeksforgeeks.org/bfs-vs-dfs-binary-tree/
+
 Standard problems -
 http://www.geeksforgeeks.org/check-if-leaf-traversal-of-two-binary-trees-is-same/
+http://practice.geeksforgeeks.org/problems/maximum-path-sum/1
+
 
 
 
 Dynamic Programming
 https://www.codechef.com/wiki/tutorial-dynamic-programming
 https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/
+
+Standard problems-
+http://www.geeksforgeeks.org/solve-dynamic-programming-problem/
+Index - http://www.geeksforgeeks.org/fundamentals-of-algorithms/#DynamicProgramming
+http://practice.geeksforgeeks.org/problems/largest-zigzag-sequence/0	
+http://practice.geeksforgeeks.org/problems/probability-of-knight/0		
+
+
+
+Matrices/Array/Search/Sort/Adhoc
+http://practice.geeksforgeeks.org/problems/search-in-a-matrix/0
+http://practice.geeksforgeeks.org/problems/solve-the-sudoku/0
+http://practice.geeksforgeeks.org/problems/largest-zigzag-sequence/0
+
+
+Graph/BFS/DFS
+http://practice.geeksforgeeks.org/problems/word-boggle/0  (trie)	very famous problem
