@@ -22,7 +22,8 @@ https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-p
 
 Standard problems-
 http://www.geeksforgeeks.org/solve-dynamic-programming-problem/
-Index - http://www.geeksforgeeks.org/fundamentals-of-algorithms/#DynamicProgramming
+GfG - http://www.geeksforgeeks.org/dynamic-programming/
+fundamentals GfG - http://www.geeksforgeeks.org/fundamentals-of-algorithms/#DynamicProgramming
 http://practice.geeksforgeeks.org/problems/largest-zigzag-sequence/0	
 http://practice.geeksforgeeks.org/problems/probability-of-knight/0		
 
@@ -36,3 +37,17 @@ http://practice.geeksforgeeks.org/problems/largest-zigzag-sequence/0
 
 Graph/BFS/DFS
 http://practice.geeksforgeeks.org/problems/word-boggle/0  (trie)	very famous problem
+
+
+
+
+etcs
+http://practice.geeksforgeeks.org/problems/largest-zigzag-sequence/0
+http://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/
+http://practice.geeksforgeeks.org/problems/number-of-turns-in-binary-tree/1/?ref=self
+http://www.geeksforgeeks.org/construct-tree-from-given-inorder-and-preorder-traversal/
+
+
+
+
+
