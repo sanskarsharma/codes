@@ -12,6 +12,23 @@ http://www.geeksforgeeks.org/bfs-vs-dfs-binary-tree/
 Standard problems -
 http://www.geeksforgeeks.org/check-if-leaf-traversal-of-two-binary-trees-is-same/
 http://practice.geeksforgeeks.org/problems/maximum-path-sum/1
+http://www.geeksforgeeks.org/check-if-two-trees-are-mirror/
+
+//	Convert an arbitrary Binary Tree to a tree that holds Children Sum Property
+	http://www.geeksforgeeks.org/convert-an-arbitrary-binary-tree-to-a-tree-that-holds-children-sum-property/
+
+
+
+
+
+BST
+//	Convert a BST to a Binary Tree such that sum of all greater keys is added to every key
+	http://www.geeksforgeeks.org/convert-bst-to-a-binary-tree/
+
+
+LinkedList
+http://www.geeksforgeeks.org/data-structures/linked-list/
+http://www.geeksforgeeks.org/swap-nodes-in-a-linked-list-without-swapping-data/
 
 
 
