@@ -29,6 +29,7 @@ BST
 LinkedList
 http://www.geeksforgeeks.org/data-structures/linked-list/
 http://www.geeksforgeeks.org/swap-nodes-in-a-linked-list-without-swapping-data/
+http://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/
 
 
 
