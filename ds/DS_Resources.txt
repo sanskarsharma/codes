@@ -3,6 +3,16 @@ https://www.codechef.com/certification/prepare#foundation-syllabus // well docum
 https://visualgo.net/en
 https://leetcode.com
 
+factors / primes / co-primes
+factors-1 : http://www.geeksforgeeks.org/find-divisors-natural-number-set-1/  
+factors-2 :  http://www.geeksforgeeks.org/find-all-divisors-of-a-natural-number-set-2/
+prime factors : http://www.geeksforgeeks.org/print-all-prime-factors-of-a-given-number/
+prime factors with powers : http://www.geeksforgeeks.org/print-all-prime-factors-and-their-powers/
+sieve : http://www.geeksforgeeks.org/sieve-of-eratosthenes/
+
+Arrays
+http://www.geeksforgeeks.org/segregate-0s-and-1s-in-an-array-by-traversing-array-once/
+
 
 Tree
 all problems on GfG - http://www.geeksforgeeks.org/binary-tree-data-structure/
@@ -65,6 +75,10 @@ http://practice.geeksforgeeks.org/problems/largest-zigzag-sequence/0
 http://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/
 http://practice.geeksforgeeks.org/problems/number-of-turns-in-binary-tree/1/?ref=self
 http://www.geeksforgeeks.org/construct-tree-from-given-inorder-and-preorder-traversal/
+
+JTG
+https://docs.com/d/fullscreen/D25193001-8863-2468-0950-000712769522~M6622fbde-5ce3-dde6-0214-07858bb987d0
+https://docs.com/d/fullscreen/D25193001-8685-9620-3690-001416877893~M6622fbde-5ce3-dde6-0214-07858bb987d0
 
 
 
