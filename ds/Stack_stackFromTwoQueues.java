@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/implement-stack-using-queue/
+
 /*
 Please note that it's Function problem i.e.
 you need to write your solution in the form of Function(s) only.
@@ -12,10 +14,13 @@ class GfG
     /*The method pop which return the element poped out of the stack*/
     int pop()
     {
-        return q2.poll();
-	// Your code here
+        if(q2.size()>0){
+            return q2.poll();
+        }
+        return -1;
+    // Your code here
     }
-	
+    
     /* The method push to push element into the stack */
     void push(int a)
     {
@@ -26,6 +31,6 @@ class GfG
         Queue<Integer> q3 = q1;
         q1 = q2;
         q2 = q3;
-	// Your code here	
+    // Your code here   
     }
 }
