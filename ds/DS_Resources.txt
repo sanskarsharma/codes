@@ -84,12 +84,13 @@ https://docs.com/d/fullscreen/D25193001-8685-9620-3690-001416877893~M6622fbde-5c
 Tree basic probs
 traversal - inorder, preorder, postorder
 traversal without recursion - inorder, preorder
-height , width/diameter of Btree*
+height , width/diameter of Btree *
 leftview, rightview, topview of a Btree
 level order traversal, level order line-by-line, reverse level order traversal, spiral traversal, connect-nodes-at-same-level
 diagonal traversal
 boundary traversal *
 vertical traversal *
+lowest-common-ancestor of nodes, min-distance between two nodes, in a Btree *
 
 
 
